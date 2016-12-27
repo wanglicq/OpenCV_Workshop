@@ -2,7 +2,7 @@
 
 ## 环境
 ### 下载代码
-git clone https://github.com/twqa/openCV.git
+git clone https://github.com/twqa/OpenCV_Workshop.git
 ### 在intellijIdea中打开项目，然后把OpenCV添加进项目，前提是OpenCV已按照文档提前装好
 project structure  -->  Modules  -->  1_test  --> click "+" at the bottom  --> JARs or directories...
 -->  add /your/path/opencv-310.jar (/opt/local/share/OpenCV/java/opencv-310.jar)
